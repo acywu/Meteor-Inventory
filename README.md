@@ -4,6 +4,7 @@
 - API Provided
 - Simple inventory system
 
+
 Screenshot
 ![alt tag](https://raw.githubusercontent.com/alexcywu/Meteor-Inventory/master/s0.png)
 ![alt tag](https://raw.githubusercontent.com/alexcywu/Meteor-Inventory/master/s1.png)
